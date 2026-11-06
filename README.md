@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg?v=4" width="100%" alt="SAG: for an innovative tomorrow">
+  <img src="assets/sag-banner.svg" width="100%" alt="SAG: for an innovative tomorrow">
 </p>
 
 <p align="center">
@@ -24,15 +24,15 @@
 ## What we build
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg?v=4">
-  <img src="assets/capabilities-light.svg?v=4" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-capabilities-dark.svg">
+  <img src="assets/sag-capabilities-light.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
 </picture>
 
 ## How we work
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg?v=4">
-  <img src="assets/process-light.svg?v=4" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-process-dark.svg">
+  <img src="assets/sag-process-light.svg" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
 </picture>
 
 ## Projects
@@ -47,7 +47,7 @@ An open-source software KVM for Windows, macOS, Linux and Android with encrypted
 
 <br clear="left">
 
-<img src="assets/coming-soon.svg?v=4" width="44" align="left" alt="">
+<img src="assets/sag-coming-soon.svg" width="44" align="left" alt="">
 
 **More on the way** · AI-assisted CAD and PCB design tools, VS Code extensions for engineers, embedded and electronics projects.<br>
 Follow [@Sanalarge](https://github.com/Sanalarge) for new releases.
