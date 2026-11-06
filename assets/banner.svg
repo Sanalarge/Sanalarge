@@ -102,7 +102,7 @@
       <text class="mono" x="945" y="265" text-anchor="middle">SNL-01</text>
     </g>
 
-    <text class="eyebrow" x="70" y="96">OPEN ENGINEERING STUDIO</text>
+    <text class="eyebrow" x="70" y="96">ENGINEERING STUDIO</text>
     <text class="title" x="66" y="172">SANALARGE</text>
     <rect x="70" y="192" width="84" height="4" rx="2" fill="url(#copper)"/>
     <text class="lead" x="70" y="235">Software, electronics and AI-driven engineering</text>

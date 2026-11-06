@@ -4,7 +4,7 @@
 
 <p align="center">
   We design software, circuits and the AI tools engineers use to build them,<br>
-  carry them through planning and production, and share what we learn openly.
+  carry them through planning and production, and support open source along the way.
 </p>
 
 <p align="center">
@@ -23,15 +23,17 @@
 
 ## What we build
 
-<p align="center">
-  <img src="assets/capabilities.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg">
+  <img src="assets/capabilities-light.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
+</picture>
 
 ## How we work
 
-<p align="center">
-  <img src="assets/process.svg" width="100%" alt="Idea, design, CAD and PCB, prototype, production, open source">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
+  <img src="assets/process-light.svg" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
+</picture>
 
 ## Projects
 
@@ -57,7 +59,7 @@ Our work spans software, electronics, CAD and AI engineering tools. New projects
     <td>
       <b>More on the way</b> &nbsp;<sub><code>AI CAD</code> <code>PCB</code> <code>VS CODE</code> <code>EMBEDDED</code></sub><br>
       AI-assisted CAD and PCB design tools, VS Code extensions for engineers, embedded and electronics projects.
-      Follow <a href="https://github.com/Sanalarge">@Sanalarge</a> to see them as they go public.
+      Follow <a href="https://github.com/Sanalarge">@Sanalarge</a> for new releases.
     </td>
   </tr>
 </table>
@@ -67,16 +69,16 @@ Our work spans software, electronics, CAD and AI engineering tools. New projects
 
 <br>
 
-**Sanalarge**; yazılım, elektronik ve yapay zekâ destekli mühendislik üzerine çalışan açık bir mühendislik stüdyosudur.
+**Sanalarge**; yazılım, elektronik ve yapay zekâ destekli mühendislik üzerine çalışan bir mühendislik stüdyosudur. Mühendislik çalışmalarımızın yanında açık kaynak dünyasına da destek veriyoruz.
 
 - **Yazılım:** Web, mobil, masaüstü ve gömülü sistemler; donanım yazılımından buluta uçtan uca ürünler.
 - **Elektronik ve PCB:** Şema tasarımı, çok katmanlı PCB çizimi ve üretime hazır prototipler.
 - **Yapay zekâ ile mühendislik:** Yapay zekâ destekli CAD tasarımı, VS Code eklentileri ve PCB tasarım eklentileri.
 - **CAD ve mekanik:** 3B modelleme, kutu tasarımı, üretilebilirlik kontrolleri ve simülasyon.
 - **Planlama ve üretim:** Proje planlama, malzeme listesi, tedarik ve ölçeklenebilir üretim süreçleri.
-- **Açık kaynak:** Araçlarımızı ve tasarımlarımızı açık paylaşır, kullandığımız projelere katkı sunarız.
+- **Açık kaynak:** Mühendislik işlerimizin yanında açık kaynağı destekliyor, seçili araçlarımızı toplulukla paylaşıyoruz.
 
-**Projeler:** İlk açık kaynak projemiz [Mause](https://github.com/Sanalarge/mause). Yapay zekâ destekli CAD ve PCB araçları, VS Code eklentileri, gömülü sistem ve elektronik projelerimiz yayımlandıkça bu sayfaya eklenecek.
+**Projeler:** Toplulukla paylaştığımız ilk proje [Mause](https://github.com/Sanalarge/mause). Yapay zekâ destekli CAD ve PCB araçları, VS Code eklentileri, gömülü sistem ve elektronik projelerimiz yayımlandıkça bu sayfaya eklenecek.
 
 </details>
 
