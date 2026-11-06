@@ -9,30 +9,36 @@ text{font-family:Plex,'IBM Plex Sans',Helvetica,Arial,sans-serif}
 .p{font-size:16.5px;font-weight:400;fill:#59636e}
 .lbl{font-size:19px;font-weight:600;fill:#1f2328}
 .sub{font-size:15px;font-weight:400;fill:#59636e}
-.tick{fill:#a2561c}
+.tick{fill:#a2561c;animation:lit 6s ease-in-out infinite;opacity:.45}
+.pulse{fill:none;stroke:#a2561c;stroke-width:2;stroke-linecap:round;stroke-dasharray:7 93;animation:run 6s linear infinite}
+.slow{animation-duration:9s}
+@keyframes run{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+@keyframes lit{0%,12%,100%{opacity:.45}4%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.pulse{display:none}.tick{animation:none;opacity:1}}
 </style>
 <line class="rule" x1="0" y1="20.5" x2="1200" y2="20.5"/>
-<rect class="tick" x="0" y="14" width="2" height="13"/>
+<path class="pulse" pathLength="100" d="M0 20.5 H1200"/>
+<rect class="tick" style="animation-delay:0.0s" x="0" y="14" width="2" height="13"/>
 <text class="idx" x="0" y="62">01</text>
 <text class="lbl" x="0" y="92">Idea</text>
 <text class="sub" x="0" y="118">Problem and scope</text>
-<rect class="tick" x="200" y="14" width="2" height="13"/>
+<rect class="tick" style="animation-delay:1.0s" x="200" y="14" width="2" height="13"/>
 <text class="idx" x="200" y="62">02</text>
 <text class="lbl" x="200" y="92">Design</text>
 <text class="sub" x="200" y="118">Architecture and UX</text>
-<rect class="tick" x="400" y="14" width="2" height="13"/>
+<rect class="tick" style="animation-delay:2.0s" x="400" y="14" width="2" height="13"/>
 <text class="idx" x="400" y="62">03</text>
 <text class="lbl" x="400" y="92">CAD &amp; PCB</text>
 <text class="sub" x="400" y="118">AI-assisted engineering</text>
-<rect class="tick" x="600" y="14" width="2" height="13"/>
+<rect class="tick" style="animation-delay:3.0s" x="600" y="14" width="2" height="13"/>
 <text class="idx" x="600" y="62">04</text>
 <text class="lbl" x="600" y="92">Prototype</text>
 <text class="sub" x="600" y="118">Build, test, iterate</text>
-<rect class="tick" x="800" y="14" width="2" height="13"/>
+<rect class="tick" style="animation-delay:4.0s" x="800" y="14" width="2" height="13"/>
 <text class="idx" x="800" y="62">05</text>
 <text class="lbl" x="800" y="92">Production</text>
 <text class="sub" x="800" y="118">BOM, suppliers, scale</text>
-<rect class="tick" x="1000" y="14" width="2" height="13"/>
+<rect class="tick" style="animation-delay:5.0s" x="1000" y="14" width="2" height="13"/>
 <text class="idx" x="1000" y="62">06</text>
 <text class="lbl" x="1000" y="92">Support</text>
 <text class="sub" x="1000" y="118">Maintenance and updates</text>
