@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg?v=3" width="100%" alt="Sanalarge: software, electronics and AI-driven engineering">
+  <img src="assets/banner.svg?v=4" width="100%" alt="SAG: for an innovative tomorrow">
 </p>
 
 <p align="center">
@@ -8,15 +8,15 @@
 </p>
 
 <p align="center">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-121a24?style=flat-square&logo=rust&logoColor=e6a46a">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-121a24?style=flat-square&logo=kotlin&logoColor=e6a46a">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121a24?style=flat-square&logo=typescript&logoColor=e6a46a">
-  <img alt="Python" src="https://img.shields.io/badge/Python-121a24?style=flat-square&logo=python&logoColor=e6a46a">
-  <img alt="C and C++" src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-121a24?style=flat-square&logo=cplusplus&logoColor=e6a46a">
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-121a24?style=flat-square&logo=espressif&logoColor=e6a46a">
-  <img alt="KiCad" src="https://img.shields.io/badge/KiCad-121a24?style=flat-square&logo=kicad&logoColor=5eead4">
-  <img alt="FreeCAD" src="https://img.shields.io/badge/FreeCAD-121a24?style=flat-square&logo=freecad&logoColor=5eead4">
-  <img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code%20Extensions-121a24?style=flat-square&logoColor=5eead4">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-0A0F16?style=flat-square&logo=rust&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0A0F16?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A0F16?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0A0F16?style=flat-square&logo=python&logoColor=white">
+  <img alt="C and C++" src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-0A0F16?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-0A0F16?style=flat-square&logo=espressif&logoColor=white">
+  <img alt="KiCad" src="https://img.shields.io/badge/KiCad-0A0F16?style=flat-square&logo=kicad&logoColor=white">
+  <img alt="FreeCAD" src="https://img.shields.io/badge/FreeCAD-0A0F16?style=flat-square&logo=freecad&logoColor=white">
+  <img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code%20Extensions-0A0F16?style=flat-square">
 </p>
 
 <br>
@@ -24,45 +24,35 @@
 ## What we build
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg?v=3">
-  <img src="assets/capabilities-light.svg?v=3" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg?v=4">
+  <img src="assets/capabilities-light.svg?v=4" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
 </picture>
 
 ## How we work
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg?v=3">
-  <img src="assets/process-light.svg?v=3" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg?v=4">
+  <img src="assets/process-light.svg?v=4" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
 </picture>
 
 ## Projects
 
-Our work spans software, electronics, CAD and AI engineering tools. New projects are published here as they are released.
+Our work spans software, electronics, CAD and AI engineering tools. New projects are added here as they are released.
 
-<table>
-  <tr>
-    <td width="96" align="center">
-      <a href="https://github.com/Sanalarge/mause"><img src="assets/mause-logo.svg" width="56" alt="Mause logo"></a>
-    </td>
-    <td>
-      <a href="https://github.com/Sanalarge/mause"><b>Mause</b></a> &nbsp;<sub><code>SOFTWARE</code> <code>DESKTOP</code> <code>ANDROID</code></sub><br>
-      One keyboard and mouse for every computer on your desk. An open-source software KVM
-      for Windows, macOS, Linux and Android with encrypted pairing, clipboard, file, audio and screen sharing.<br>
-      <a href="https://github.com/Sanalarge/mause/releases/latest">Download</a> ·
-      <a href="https://github.com/Sanalarge/mause">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="96" align="center">
-      <img src="assets/coming-soon.svg" width="56" alt="">
-    </td>
-    <td>
-      <b>More on the way</b> &nbsp;<sub><code>AI CAD</code> <code>PCB</code> <code>VS CODE</code> <code>EMBEDDED</code></sub><br>
-      AI-assisted CAD and PCB design tools, VS Code extensions for engineers, embedded and electronics projects.
-      Follow <a href="https://github.com/Sanalarge">@Sanalarge</a> for new releases.
-    </td>
-  </tr>
-</table>
+<img src="assets/mause-logo.svg" width="44" align="left" alt="Mause logo">
+
+**[Mause](https://github.com/Sanalarge/mause)** · One keyboard and mouse for every computer on your desk.<br>
+An open-source software KVM for Windows, macOS, Linux and Android with encrypted pairing, clipboard, file, audio and screen sharing.
+[Download](https://github.com/Sanalarge/mause/releases/latest) · [Source](https://github.com/Sanalarge/mause)
+
+<br clear="left">
+
+<img src="assets/coming-soon.svg?v=4" width="44" align="left" alt="">
+
+**More on the way** · AI-assisted CAD and PCB design tools, VS Code extensions for engineers, embedded and electronics projects.<br>
+Follow [@Sanalarge](https://github.com/Sanalarge) for new releases.
+
+<br clear="left">
 
 <details>
 <summary><b>Türkçe</b></summary>
@@ -85,6 +75,6 @@ Our work spans software, electronics, CAD and AI engineering tools. New projects
 <br>
 
 <p align="center">
-  <a href="mailto:sanalargedev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/sanalargedev%40gmail.com-121a24?style=flat-square&logo=gmail&logoColor=e6a46a"></a>
-  <a href="https://github.com/Sanalarge"><img alt="GitHub" src="https://img.shields.io/badge/github.com%2FSanalarge-121a24?style=flat-square&logo=github&logoColor=e6a46a"></a>
+  <a href="mailto:sanalargedev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/sanalargedev%40gmail.com-0A0F16?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Sanalarge"><img alt="GitHub" src="https://img.shields.io/badge/github.com%2FSanalarge-0A0F16?style=flat-square&logo=github&logoColor=white"></a>
 </p>
