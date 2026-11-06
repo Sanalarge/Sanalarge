@@ -31,8 +31,8 @@
 ## How we work
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-process-dark.svg">
-  <img src="assets/sag-process-light.svg" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-flow-dark.svg">
+  <img src="assets/sag-flow-light.svg" width="100%" alt="Idea, design, prototype, production, support">
 </picture>
 
 ## Projects
