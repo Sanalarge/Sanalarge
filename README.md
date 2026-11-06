@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sag-banner.svg" width="100%" alt="SAG: for an innovative tomorrow">
+  <img src="assets/sag-hero.svg" width="100%" alt="Sanalarge: software, electronics and AI-driven engineering">
 </p>
 
 <p align="center">
