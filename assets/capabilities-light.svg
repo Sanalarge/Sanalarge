@@ -10,21 +10,28 @@ text{font-family:Plex,'IBM Plex Sans',Helvetica,Arial,sans-serif}
 .lbl{font-size:19px;font-weight:600;fill:#1f2328}
 .sub{font-size:15px;font-weight:400;fill:#59636e}
 .tick{fill:#a2561c;animation:lit 6s ease-in-out infinite;opacity:.45}
-.pulse{fill:none;stroke:#a2561c;stroke-width:2;stroke-linecap:round;stroke-dasharray:7 93;animation:run 6s linear infinite}
+.pulse{fill:none;stroke:#a2561c;stroke-width:2.5;stroke-linecap:round;stroke-dasharray:9 91;animation:run 6s linear infinite}
+.glow{stroke-width:9;stroke-opacity:.22}
 .slow{animation-duration:9s}
 @keyframes run{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
 @keyframes lit{0%,12%,100%{opacity:.45}4%{opacity:1}}
-@media (prefers-reduced-motion:reduce){.pulse{display:none}.tick{animation:none;opacity:1}}
+@media (prefers-reduced-motion:reduce){.pulse,.tick{animation:none;opacity:1}}
 </style>
 <line class="rule" x1="0" y1="0.5" x2="1200" y2="0.5"/>
 <line class="rule" x1="0" y1="232.5" x2="1200" y2="232.5"/>
 <line class="rule" x1="0" y1="463.5" x2="1200" y2="463.5"/>
 <line class="rule" x1="400.5" y1="0" x2="400.5" y2="464"/>
 <line class="rule" x1="800.5" y1="0" x2="800.5" y2="464"/>
-<path class="pulse slow" pathLength="100" d="M0 232.5 H1200"/>
-<path class="pulse" pathLength="100" style="animation-delay:-2s" d="M400.5 0 V464"/>
-<path class="pulse" pathLength="100" style="animation-delay:-4.5s" d="M800.5 464 V0"/>
-<path class="pulse slow" pathLength="100" style="animation-delay:-5s" d="M1200 0.5 H0"/>
+<path class="pulse slow glow" pathLength="100" style="animation-delay:0s" d="M0 232.5 H1200"/>
+<path class="pulse slow " pathLength="100" style="animation-delay:0s" d="M0 232.5 H1200"/>
+<path class="pulse slow glow" pathLength="100" style="animation-delay:-4.5s" d="M0 232.5 H1200"/>
+<path class="pulse slow " pathLength="100" style="animation-delay:-4.5s" d="M0 232.5 H1200"/>
+<path class="pulse  glow" pathLength="100" style="animation-delay:-2s" d="M400.5 0 V464"/>
+<path class="pulse  " pathLength="100" style="animation-delay:-2s" d="M400.5 0 V464"/>
+<path class="pulse  glow" pathLength="100" style="animation-delay:-4.5s" d="M800.5 464 V0"/>
+<path class="pulse  " pathLength="100" style="animation-delay:-4.5s" d="M800.5 464 V0"/>
+<path class="pulse slow glow" pathLength="100" style="animation-delay:-6s" d="M1200 1.5 H0"/>
+<path class="pulse slow " pathLength="100" style="animation-delay:-6s" d="M1200 1.5 H0"/>
 <text class="idx" x="0" y="46">01</text>
 <text class="h" x="0" y="88">Software</text>
 <text class="p" x="0" y="126">Web, mobile, desktop and embedded</text>

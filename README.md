@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Sanalarge: software, electronics and AI-driven engineering">
+  <img src="assets/banner.svg?v=3" width="100%" alt="Sanalarge: software, electronics and AI-driven engineering">
 </p>
 
 <p align="center">
@@ -24,15 +24,15 @@
 ## What we build
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg">
-  <img src="assets/capabilities-light.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg?v=3">
+  <img src="assets/capabilities-light.svg?v=3" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
 </picture>
 
 ## How we work
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
-  <img src="assets/process-light.svg" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg?v=3">
+  <img src="assets/process-light.svg?v=3" width="100%" alt="Idea, design, CAD and PCB, prototype, production, support">
 </picture>
 
 ## Projects

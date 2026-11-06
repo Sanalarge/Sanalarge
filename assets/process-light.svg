@@ -10,13 +10,15 @@ text{font-family:Plex,'IBM Plex Sans',Helvetica,Arial,sans-serif}
 .lbl{font-size:19px;font-weight:600;fill:#1f2328}
 .sub{font-size:15px;font-weight:400;fill:#59636e}
 .tick{fill:#a2561c;animation:lit 6s ease-in-out infinite;opacity:.45}
-.pulse{fill:none;stroke:#a2561c;stroke-width:2;stroke-linecap:round;stroke-dasharray:7 93;animation:run 6s linear infinite}
+.pulse{fill:none;stroke:#a2561c;stroke-width:2.5;stroke-linecap:round;stroke-dasharray:9 91;animation:run 6s linear infinite}
+.glow{stroke-width:9;stroke-opacity:.22}
 .slow{animation-duration:9s}
 @keyframes run{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
 @keyframes lit{0%,12%,100%{opacity:.45}4%{opacity:1}}
-@media (prefers-reduced-motion:reduce){.pulse{display:none}.tick{animation:none;opacity:1}}
+@media (prefers-reduced-motion:reduce){.pulse,.tick{animation:none;opacity:1}}
 </style>
 <line class="rule" x1="0" y1="20.5" x2="1200" y2="20.5"/>
+<path class="pulse glow" pathLength="100" d="M0 20.5 H1200"/>
 <path class="pulse" pathLength="100" d="M0 20.5 H1200"/>
 <rect class="tick" style="animation-delay:0.0s" x="0" y="14" width="2" height="13"/>
 <text class="idx" x="0" y="62">01</text>
