@@ -24,8 +24,8 @@
 ## What we build
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-capabilities-dark.svg">
-  <img src="assets/sag-capabilities-light.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-build-dark.svg">
+  <img src="assets/sag-build-light.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
 </picture>
 
 ## How we work
