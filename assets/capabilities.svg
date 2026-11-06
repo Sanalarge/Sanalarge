@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="What Sanalarge builds: software, electronics and PCB, AI engineering tools, CAD, planning and production, open source">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f16"/>
+      <stop offset="1" stop-color="#101822"/>
+    </linearGradient>
+    <linearGradient id="cardfill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#131c27"/>
+      <stop offset="1" stop-color="#0f161f"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="560" rx="22"/>
+    </clipPath>
+  </defs>
+  <style>
+    .card{fill:url(#cardfill);stroke:#212c39;stroke-width:1.5}
+    .iconbox{fill:#1c1410;stroke:#5a3a22;stroke-width:1.5}
+    .iconbox.cy{fill:#0e1d1c;stroke:#1f5a52}
+    .ic{fill:none;stroke:#eba567;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+    .ic.cy{stroke:#5eead4}
+    .h{font:700 23px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#f5f1ea}
+    .p{font:400 16px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#93a1af}
+    .tag{font:600 12.5px ui-monospace,'Cascadia Code',Consolas,monospace;letter-spacing:1.5px;fill:#c98a55}
+    .tag.cy{fill:#5ccfbd}
+    .num{font:600 13px ui-monospace,'Cascadia Code',Consolas,monospace;fill:#3a4756}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="560" fill="url(#bg)"/>
+
+    <g transform="translate(32 32)">
+      <rect class="card" width="368" height="240" rx="16"/>
+      <text class="num" x="336" y="38" text-anchor="end">01</text>
+      <rect class="iconbox" x="24" y="24" width="48" height="48" rx="12"/>
+      <g transform="translate(36 36)">
+        <path class="ic" d="M8 7 L3 12 L8 17 M16 7 L21 12 L16 17 M14 4 L10 20"/>
+      </g>
+      <text class="h" x="24" y="110">Software</text>
+      <text class="p" x="24" y="140">Web, mobile, desktop and embedded</text>
+      <text class="p" x="24" y="162">products built end to end, from</text>
+      <text class="p" x="24" y="184">firmware to the cloud.</text>
+      <text class="tag" x="24" y="216">WEB · MOBILE · DESKTOP · EMBEDDED</text>
+    </g>
+
+    <g transform="translate(416 32)">
+      <rect class="card" width="368" height="240" rx="16"/>
+      <text class="num" x="336" y="38" text-anchor="end">02</text>
+      <rect class="iconbox" x="24" y="24" width="48" height="48" rx="12"/>
+      <g transform="translate(36 36)">
+        <rect class="ic" x="6" y="6" width="12" height="12" rx="2"/>
+        <path class="ic" d="M9 2 V6 M15 2 V6 M9 18 V22 M15 18 V22 M2 9 H6 M2 15 H6 M18 9 H22 M18 15 H22"/>
+      </g>
+      <text class="h" x="24" y="110">Electronics &amp; PCB</text>
+      <text class="p" x="24" y="140">Schematic capture, multilayer PCB</text>
+      <text class="p" x="24" y="162">layout and prototypes that are</text>
+      <text class="p" x="24" y="184">ready for manufacturing.</text>
+      <text class="tag" x="24" y="216">SCHEMATIC · LAYOUT · PROTOTYPE</text>
+    </g>
+
+    <g transform="translate(800 32)">
+      <rect class="card" width="368" height="240" rx="16" stroke="#1d4a45"/>
+      <text class="num" x="336" y="38" text-anchor="end">03</text>
+      <rect class="iconbox cy" x="24" y="24" width="48" height="48" rx="12"/>
+      <g transform="translate(36 36)">
+        <path class="ic cy" d="M12 2 L13.9 10.1 L22 12 L13.9 13.9 L12 22 L10.1 13.9 L2 12 L10.1 10.1 Z"/>
+      </g>
+      <text class="h" x="24" y="110">AI Engineering Tools</text>
+      <text class="p" x="24" y="140">AI-assisted CAD design, VS Code</text>
+      <text class="p" x="24" y="162">extensions and PCB design plugins</text>
+      <text class="p" x="24" y="184">that work alongside engineers.</text>
+      <text class="tag cy" x="24" y="216">AI CAD · VS CODE · PCB AGENTS</text>
+    </g>
+
+    <g transform="translate(32 288)">
+      <rect class="card" width="368" height="240" rx="16"/>
+      <text class="num" x="336" y="38" text-anchor="end">04</text>
+      <rect class="iconbox" x="24" y="24" width="48" height="48" rx="12"/>
+      <g transform="translate(36 36)">
+        <path class="ic" d="M12 2 L21 7 V17 L12 22 L3 17 V7 Z M3 7 L12 12 L21 7 M12 12 V22"/>
+      </g>
+      <text class="h" x="24" y="110">CAD &amp; Mechanical</text>
+      <text class="p" x="24" y="140">3D models, enclosures and</text>
+      <text class="p" x="24" y="162">design-for-manufacture checks</text>
+      <text class="p" x="24" y="184">with simulation in the loop.</text>
+      <text class="tag" x="24" y="216">3D MODELING · FEM · DFM</text>
+    </g>
+
+    <g transform="translate(416 288)">
+      <rect class="card" width="368" height="240" rx="16"/>
+      <text class="num" x="336" y="38" text-anchor="end">05</text>
+      <rect class="iconbox" x="24" y="24" width="48" height="48" rx="12"/>
+      <g transform="translate(36 36)">
+        <path class="ic" d="M3 3 V21 H21"/>
+        <path class="ic" d="M7 7 H13 M10 12 H18 M8 17 H15" stroke-width="3"/>
+      </g>
+      <text class="h" x="24" y="110">Planning &amp; Production</text>
+      <text class="p" x="24" y="140">Project planning, bill of materials,</text>
+      <text class="p" x="24" y="162">suppliers and production processes</text>
+      <text class="p" x="24" y="184">that scale from one to many.</text>
+      <text class="tag" x="24" y="216">PLANNING · BOM · MANUFACTURING</text>
+    </g>
+
+    <g transform="translate(800 288)">
+      <rect class="card" width="368" height="240" rx="16"/>
+      <text class="num" x="336" y="38" text-anchor="end">06</text>
+      <rect class="iconbox" x="24" y="24" width="48" height="48" rx="12"/>
+      <g transform="translate(36 36)">
+        <circle class="ic" cx="6" cy="5" r="2.5"/>
+        <circle class="ic" cx="6" cy="19" r="2.5"/>
+        <circle class="ic" cx="18" cy="7" r="2.5"/>
+        <path class="ic" d="M6 7.5 V16.5 M18 9.5 C18 14 6 12.5 6 16.5"/>
+      </g>
+      <text class="h" x="24" y="110">Open Source</text>
+      <text class="p" x="24" y="140">We publish our tools and designs</text>
+      <text class="p" x="24" y="162">openly and contribute back to the</text>
+      <text class="p" x="24" y="184">projects we build on.</text>
+      <text class="tag" x="24" y="216">CODE · HARDWARE · DOCS</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="1198.5" height="558.5" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1.5"/>
+  </g>
+</svg>

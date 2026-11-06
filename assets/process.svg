@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="How we work: idea, design, CAD and PCB, prototype, production, open source">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f16"/>
+      <stop offset="1" stop-color="#101822"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0b27a"/>
+      <stop offset="1" stop-color="#b8692f"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="210" rx="22"/>
+    </clipPath>
+  </defs>
+  <style>
+    .rail{fill:none;stroke:#3b2d22;stroke-width:3;stroke-linecap:round}
+    .pulse{fill:none;stroke:#f0a965;stroke-width:3;stroke-linecap:round;stroke-dasharray:6 94;animation:run 7s linear infinite}
+    .pulse.cyan{stroke:#5eead4;animation-delay:-3.5s}
+    .node{fill:#0a0f16;stroke:url(#copper);stroke-width:2.5}
+    .core{fill:#eba567}
+    .core.cy{fill:#5eead4}
+    .step{font:600 13px ui-monospace,'Cascadia Code',Consolas,monospace;letter-spacing:2px;fill:#4a5869}
+    .label{font:700 19px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#f5f1ea}
+    .sub{font:400 14.5px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#8795a3}
+    @keyframes run{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="210" fill="url(#bg)"/>
+    <path class="rail" d="M110 86 H1090"/>
+    <path class="pulse" pathLength="100" d="M110 86 H1090"/>
+    <path class="pulse cyan" pathLength="100" d="M110 86 H1090"/>
+
+    <g text-anchor="middle">
+      <text class="step" x="110" y="46">01</text>
+      <circle class="node" cx="110" cy="86" r="16"/>
+      <circle class="core" cx="110" cy="86" r="6"/>
+      <text class="label" x="110" y="146">Idea</text>
+      <text class="sub" x="110" y="170">Problem and scope</text>
+
+      <text class="step" x="306" y="46">02</text>
+      <circle class="node" cx="306" cy="86" r="16"/>
+      <circle class="core" cx="306" cy="86" r="6"/>
+      <text class="label" x="306" y="146">Design</text>
+      <text class="sub" x="306" y="170">Architecture and UX</text>
+
+      <text class="step" x="502" y="46">03</text>
+      <circle class="node" cx="502" cy="86" r="16"/>
+      <circle class="core cy" cx="502" cy="86" r="6"/>
+      <text class="label" x="502" y="146">CAD &amp; PCB</text>
+      <text class="sub" x="502" y="170">AI-assisted engineering</text>
+
+      <text class="step" x="698" y="46">04</text>
+      <circle class="node" cx="698" cy="86" r="16"/>
+      <circle class="core" cx="698" cy="86" r="6"/>
+      <text class="label" x="698" y="146">Prototype</text>
+      <text class="sub" x="698" y="170">Build, test, iterate</text>
+
+      <text class="step" x="894" y="46">05</text>
+      <circle class="node" cx="894" cy="86" r="16"/>
+      <circle class="core" cx="894" cy="86" r="6"/>
+      <text class="label" x="894" y="146">Production</text>
+      <text class="sub" x="894" y="170">BOM, suppliers, scale</text>
+
+      <text class="step" x="1090" y="46">06</text>
+      <circle class="node" cx="1090" cy="86" r="16"/>
+      <circle class="core cy" cx="1090" cy="86" r="6"/>
+      <text class="label" x="1090" y="146">Open Source</text>
+      <text class="sub" x="1090" y="170">Share and give back</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="1198.5" height="208.5" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1.5"/>
+  </g>
+</svg>
