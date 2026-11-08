@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/sag-tools.svg" width="80%" alt="Tools we use: C, C++, Python, TypeScript, Rust, Kotlin, MATLAB, Arduino, Raspberry Pi, ESP32, STM32, Arm, KiCad, FreeCAD, Linux, Git, VS Code">
+  <img src="assets/sag-toolkit.svg" width="78%" alt="Tools we use: C, C++, Python, TypeScript, Rust, Kotlin, Swift, Dart, Flutter, React Native, Android Studio, Xcode, MATLAB, Arduino, Raspberry Pi, ESP32, STM32, Arm, KiCad, FreeCAD, Linux, Git, VS Code">
 </p>
 
 <br>
