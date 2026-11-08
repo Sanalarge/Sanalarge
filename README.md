@@ -4,22 +4,22 @@
 
 <p align="center">
   We design software, circuits and the AI tools engineers use to build them,<br>
-  carry them through planning and production, and support open source along the way.
+  manage projects and R&amp;D from plan to production, and support open source along the way.
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/sag-toolkit.svg" width="78%" alt="Tools we use: C, C++, Python, TypeScript, Rust, Kotlin, Swift, Dart, Flutter, React Native, Android Studio, Xcode, MATLAB, Arduino, Raspberry Pi, ESP32, STM32, Arm, KiCad, FreeCAD, Linux, Git, VS Code">
+  <img src="assets/sag-icons.svg" width="78%" alt="Tools we use: C, C++, Python, TypeScript, Rust, Kotlin, Swift, Dart, Flutter, React Native, Android Studio, Xcode, MATLAB, Arduino, Raspberry Pi, ESP32, STM32, Arm, KiCad, FreeCAD, Linux, Git, VS Code, Jira, Confluence, Trello, Asana, ClickUp, Notion, Miro, Figma, GitHub">
 </p>
 
 <br>
 
-## What we build
+## What we do
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-build-dark.svg">
-  <img src="assets/sag-build-light.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; planning and production; open source">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sag-services-dark.svg">
+  <img src="assets/sag-services-light.svg" width="100%" alt="Software; electronics and PCB; AI engineering tools; CAD and mechanical; project management; R&amp;D consulting; production; open source">
 </picture>
 
 ## How we work
@@ -59,7 +59,9 @@ Follow [@Sanalarge](https://github.com/Sanalarge) for new releases.
 - **Elektronik ve PCB:** Şema tasarımı, çok katmanlı PCB çizimi ve üretime hazır prototipler.
 - **Yapay zekâ ile mühendislik:** Yapay zekâ destekli CAD tasarımı, VS Code eklentileri ve PCB tasarım eklentileri.
 - **CAD ve mekanik:** 3B modelleme, kutu tasarımı, üretilebilirlik kontrolleri ve simülasyon.
-- **Planlama ve üretim:** Proje planlama, malzeme listesi, tedarik ve ölçeklenebilir üretim süreçleri.
+- **Proje yönetimi:** Planlama, zaman çizelgesi, bütçe ve risk takibiyle mühendislik projelerini hedefinde tutma.
+- **Ar-Ge danışmanlığı:** Fizibilite çalışmaları, teknoloji yol haritaları, Ar-Ge proje planlama ve dokümantasyon.
+- **Üretim:** Malzeme listesi, tedarik ve ölçeklenebilir üretim süreçleri.
 - **Açık kaynak:** Mühendislik işlerimizin yanında açık kaynağı destekliyor, seçili araçlarımızı toplulukla paylaşıyoruz.
 
 **Projeler:** Toplulukla paylaştığımız ilk proje [Mause](https://github.com/Sanalarge/mause). Yapay zekâ destekli CAD ve PCB araçları, VS Code eklentileri, gömülü sistem ve elektronik projelerimiz yayımlandıkça bu sayfaya eklenecek.
