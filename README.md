@@ -33,20 +33,16 @@
 
 Our work spans software, electronics, CAD and AI engineering tools. New projects are added here as they are released.
 
-<img src="assets/mause-logo.svg" width="44" align="left" alt="Mause logo">
-
-**[Mause](https://github.com/Sanalarge/mause)** · One keyboard and mouse for every computer on your desk.<br>
-An open-source software KVM for Windows, macOS, Linux and Android with encrypted pairing, clipboard, file, audio and screen sharing.
-[Download](https://github.com/Sanalarge/mause/releases/latest) · [Source](https://github.com/Sanalarge/mause)
-
-<br clear="left">
-
-<img src="assets/sag-coming-soon.svg" width="44" align="left" alt="">
-
-**More on the way** · AI-assisted CAD and PCB design tools, VS Code extensions for engineers, embedded and electronics projects.<br>
-Follow [@Sanalarge](https://github.com/Sanalarge) for new releases.
-
-<br clear="left">
+<p>
+  <a href="https://github.com/Sanalarge/mause"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sag-project-mause-dark.svg">
+    <img src="assets/sag-project-mause-light.svg" width="49%" alt="Mause: one keyboard and mouse for every computer on your desk">
+  </picture></a>
+  <a href="https://github.com/Sanalarge"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sag-project-next-dark.svg">
+    <img src="assets/sag-project-next-light.svg" width="49%" alt="More on the way: AI-assisted CAD and PCB tools, VS Code extensions, embedded and electronics projects">
+  </picture></a>
+</p>
 
 <details>
 <summary><b>Türkçe</b></summary>
