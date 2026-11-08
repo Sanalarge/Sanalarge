@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/sag-icons.svg" width="78%" alt="Tools we use: C, C++, Python, TypeScript, Rust, Kotlin, Swift, Dart, Flutter, React Native, Android Studio, Xcode, MATLAB, Arduino, Raspberry Pi, ESP32, STM32, Arm, KiCad, FreeCAD, Linux, Git, VS Code, Jira, Confluence, Trello, Asana, ClickUp, Notion, Miro, Figma, GitHub">
+  <img src="assets/sag-marquee.svg" width="100%" alt="Tools we use: C, C++, Python, TypeScript, Rust, Kotlin, Swift, Dart, Flutter, React Native, Android Studio, Xcode, MATLAB, Arduino, Raspberry Pi, ESP32, STM32, Arm, KiCad, FreeCAD, Linux, Git, VS Code, Jira, Confluence, Trello, Asana, ClickUp, Notion, Miro, Figma, GitHub">
 </p>
 
 <br>
