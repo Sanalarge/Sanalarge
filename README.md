@@ -7,16 +7,10 @@
   carry them through planning and production, and support open source along the way.
 </p>
 
+<br>
+
 <p align="center">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-0A0F16?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0A0F16?style=flat-square&logo=kotlin&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A0F16?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0A0F16?style=flat-square&logo=python&logoColor=white">
-  <img alt="C and C++" src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-0A0F16?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-0A0F16?style=flat-square&logo=espressif&logoColor=white">
-  <img alt="KiCad" src="https://img.shields.io/badge/KiCad-0A0F16?style=flat-square&logo=kicad&logoColor=white">
-  <img alt="FreeCAD" src="https://img.shields.io/badge/FreeCAD-0A0F16?style=flat-square&logo=freecad&logoColor=white">
-  <img alt="VS Code extensions" src="https://img.shields.io/badge/VS%20Code%20Extensions-0A0F16?style=flat-square">
+  <img src="assets/sag-stack.svg" width="100%" alt="Tools we use: C, C++, Python, TypeScript, Rust, Kotlin, MATLAB, Arduino, Raspberry Pi, ESP32, KiCad, FreeCAD, Linux, Git, VS Code">
 </p>
 
 <br>
