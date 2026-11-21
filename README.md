@@ -39,6 +39,14 @@ Our work spans software, electronics, CAD and AI engineering tools. New projects
     <source media="(prefers-color-scheme: dark)" srcset="assets/sag-project-mause-dark.svg">
     <img src="assets/sag-project-mause-light.svg" width="49%" alt="Mause: one keyboard and mouse for every computer on your desk">
   </picture></a>
+  <a href="https://github.com/Sanalarge/dowman"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sag-project-dowman-dark.svg">
+    <img src="assets/sag-project-dowman-light.svg" width="49%" alt="dowman+: a fast download manager for Windows, macOS and Linux">
+  </picture></a>
+  <a href="https://github.com/Sanalarge/splinter"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sag-project-splinter-dark.svg">
+    <img src="assets/sag-project-splinter-light.svg" width="49%" alt="Splinter: a lightweight mouse remapper for macOS">
+  </picture></a>
   <a href="https://github.com/Sanalarge"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/sag-project-next-dark.svg">
     <img src="assets/sag-project-next-light.svg" width="49%" alt="More on the way: AI-assisted CAD and PCB tools, VS Code extensions, embedded and electronics projects">
@@ -61,7 +69,7 @@ Our work spans software, electronics, CAD and AI engineering tools. New projects
 - **Üretim:** Malzeme listesi, tedarik ve ölçeklenebilir üretim süreçleri.
 - **Açık kaynak:** Mühendislik işlerimizin yanında açık kaynağı destekliyor, seçili araçlarımızı toplulukla paylaşıyoruz.
 
-**Projeler:** Toplulukla paylaştığımız ilk proje [Mause](https://github.com/Sanalarge/mause). Yapay zekâ destekli CAD ve PCB araçları, VS Code eklentileri, gömülü sistem ve elektronik projelerimiz yayımlandıkça bu sayfaya eklenecek.
+**Projeler:** Toplulukla paylaştığımız projeler [Mause](https://github.com/Sanalarge/mause), [dowman+](https://github.com/Sanalarge/dowman) ve [Splinter](https://github.com/Sanalarge/splinter). dowman+; tarayıcıdaki indirmeleri devralan, dosyaları 16 bağlantıya bölerek indiren ve kaldığı yerden sürdüren hafif bir indirme yöneticisidir (Windows, macOS, Linux). Splinter; Apple Silicon ve Intel Mac’ler için fare tuşlarını ve tekerlek eğimini kısayollara atayan hafif bir uygulamadır. Yapay zekâ destekli CAD ve PCB araçları, VS Code eklentileri, gömülü sistem ve elektronik projelerimiz yayımlandıkça bu sayfaya eklenecek.
 
 </details>
 
